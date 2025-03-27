@@ -170,3 +170,16 @@
 /Users/danhkunz/Documents/ChatApp/ChatApp/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/danhkunz/Documents/ChatApp/ChatApp/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/danhkunz/Documents/ChatApp/ChatApp/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/danhkunz/Documents/ChatApp/ChatApp/obj/Debug/net8.0/ChatApp.sourcelink.json
+/Users/danhkunz/Documents/ChatApp/ChatApp/bin/Debug/net8.0/Serilog.Sinks.Async.dll
+/Users/danhkunz/Documents/ChatApp/ChatApp/bin/Debug/net8.0/Serilog.Sinks.Map.dll
+/Users/danhkunz/Documents/ChatApp/ChatApp/bin/Debug/net8.0/SettingFile.json
+/Users/danhkunz/Documents/ChatApp/ChatApp/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/Users/danhkunz/Documents/ChatApp/ChatApp/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/danhkunz/Documents/ChatApp/ChatApp/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/danhkunz/Documents/ChatApp/ChatApp/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/danhkunz/Documents/ChatApp/ChatApp/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/danhkunz/Documents/ChatApp/ChatApp/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/danhkunz/Documents/ChatApp/ChatApp/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/danhkunz/Documents/ChatApp/ChatApp/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/danhkunz/Documents/ChatApp/ChatApp/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
